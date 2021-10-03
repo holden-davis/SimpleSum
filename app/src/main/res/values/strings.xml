@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleSum</string>
+    <string name="sha1">SHA1</string>
+    <string name="sha256">SHA256</string>
+    <string name="md5">MD5</string>
+    <string name="sha_1_checksum">SHA-1 Checksum</string>
+    <string name="sha_256_checksum">SHA-256 Checksum</string>
+    <string name="md5_checksum">MD5 Checksum</string>
+    <string name="choose_file">Choose File</string>
+    <string name="file">File:</string>
+    <string name="textview">File Name</string>
+</resources>
